@@ -771,7 +771,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfbab139dacef924ea0f3d3e2aeca46c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  playerCollider: {fileID: 0}
+  playerCollider: {fileID: 1650132544}
+  playerPhysics: {fileID: 1650132541}
+  playerAnimation: {fileID: 1650132545}
+  moveSpeed: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
